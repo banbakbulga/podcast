@@ -1,0 +1,214 @@
+[
+  {
+    "start": 0.0,
+    "end": 30.0,
+    "title": "오프닝 - 정은임의 인사",
+    "summary": "정은임이 조정권 시인의 시를 인용하며 방송을 시작함.",
+    "tags": [
+      "오프닝",
+      "인사"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 30.0,
+    "end": 90.0,
+    "title": "연말 베스트 10 안내",
+    "summary": "FM 영화 음악에서 연말 베스트 10을 선정할 계획을 청취자에게 안내함.",
+    "tags": [
+      "공지",
+      "베스트 10"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 90.0,
+    "end": 210.0,
+    "title": "청취자 참여 안내",
+    "summary": "청취자에게 영화, 음악, 스타 베스트 10 선정에 참여할 것을 권유.",
+    "tags": [
+      "공지",
+      "청취자 참여"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 210.0,
+    "end": 240.0,
+    "title": "엽서 보내는 방법 안내",
+    "summary": "청취자에게 엽서를 보내는 방법과 주소를 안내함.",
+    "tags": [
+      "공지",
+      "엽서"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 240.0,
+    "end": 300.0,
+    "title": "광고 - 다양한 상품 소개",
+    "summary": "다양한 상품과 서비스에 대한 광고가 진행됨.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "다양한 상품 광고"
+  },
+  {
+    "start": 300.0,
+    "end": 360.0,
+    "title": "영화 표현 기술 소개",
+    "summary": "영화 표현 기술의 발전에 대해 소개함.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 360.0,
+    "end": 570.0,
+    "title": "롱테이크 기법 설명",
+    "summary": "롱테이크 기법에 대해 설명하고 예시를 들어줌.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 570.0,
+    "end": 600.0,
+    "title": "롱테이크의 효과",
+    "summary": "롱테이크가 관객에게 주는 효과에 대해 설명함.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 600.0,
+    "end": 720.0,
+    "title": "롱테이크의 장점",
+    "summary": "롱테이크의 장점과 관객에게 주는 경험에 대해 설명함.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 720.0,
+    "end": 780.0,
+    "title": "롱테이크의 이해",
+    "summary": "롱테이크에 대한 이해를 돕기 위한 설명을 마무리함.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 780.0,
+    "end": 840.0,
+    "title": "영화 'Once Upon a Time in America' 음악 소개",
+    "summary": "영화 'Once Upon a Time in America'의 음악을 소개함.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Once Upon a Time in America",
+        "artist": "Ennio Morricone",
+        "description": "영화 'Once Upon a Time in America'의 사운드트랙."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 840.0,
+    "end": 1110.0,
+    "title": "영화 'East of Eden' 소개",
+    "summary": "영화 'East of Eden'의 줄거리와 주요 장면을 소개함.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 1110.0,
+    "end": 1200.0,
+    "title": "영화 'East of Eden'의 테마 음악",
+    "summary": "영화 'East of Eden'의 테마 음악을 소개함.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "East of Eden Theme",
+        "artist": "Leonard Rosenman",
+        "description": "영화 'East of Eden'의 테마 음악."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "start": 1200.0,
+    "end": 1260.0,
+    "title": "청취자 사연 소개",
+    "summary": "청취자들의 사연과 엽서를 소개함.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "청취자들의 다양한 사연과 엽서 소개.",
+    "ad": "없음"
+  },
+  {
+    "start": 1260.0,
+    "end": 1320.0,
+    "title": "음악 'Tears in Heaven' 소개",
+    "summary": "에릭 클랩튼의 'Tears in Heaven'을 소개하며 방송을 마무리함.",
+    "tags": [
+      "음악",
+      "소개"
+    ],
+    "music": [
+      {
+        "title": "Tears in Heaven",
+        "artist": "Eric Clapton",
+        "description": "영화 'Rush'의 삽입곡으로, 에릭 클랩튼의 감성적인 곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

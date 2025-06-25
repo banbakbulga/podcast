@@ -1,0 +1,223 @@
+[
+  {
+    "title": "오프닝 - FM영화음악 소개",
+    "start": 0.0,
+    "end": 120.0,
+    "summary": "FM영화음악의 정은임이 날씨와 프로그램 소개로 방송을 시작합니다.",
+    "tags": [
+      "오프닝",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "FM영화음악의 역할",
+    "start": 120.0,
+    "end": 240.0,
+    "summary": "FM영화음악이 청취자들에게 위로와 즐거움을 제공하는 역할을 강조합니다.",
+    "tags": [
+      "소개",
+      "역할"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Emmanuelle 2' 음악 소개",
+    "start": 480.0,
+    "end": 510.0,
+    "summary": "영화 'Emmanuelle 2'의 주제곡 'L'amour d'aimer'를 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "L'amour d'aimer",
+        "artist": "Sylvia Kristel & Francis Lai",
+        "description": "영화 'Emmanuelle 2'의 주제곡으로, 사랑과 이별의 감정을 표현합니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화와 음악의 관계",
+    "start": 510.0,
+    "end": 630.0,
+    "summary": "영화와 음악이 어떻게 감정을 전달하고 기억에 남는지에 대해 설명합니다.",
+    "tags": [
+      "영화",
+      "음악"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "빌보드 선정 영화 속 노래 100곡 소개",
+    "start": 630.0,
+    "end": 870.0,
+    "summary": "빌보드가 선정한 영화 속 노래 베스트 100곡을 소개할 계획을 발표합니다.",
+    "tags": [
+      "소개",
+      "음악"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 - 미용소품 3크러",
+    "start": 1170.0,
+    "end": 1350.0,
+    "summary": "미용소품 전문상표 3크러의 광고입니다.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "미용소품 전문상표 3크러 광고"
+  },
+  {
+    "title": "광고 - 펜시 용품",
+    "start": 1650.0,
+    "end": 1830.0,
+    "summary": "바른 손 펜시 용품의 광고입니다.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "바른 손 펜시 용품 광고"
+  },
+  {
+    "title": "광고 - 아젤리아 여드름 치료제",
+    "start": 1890.0,
+    "end": 2130.0,
+    "summary": "아젤리아 여드름 치료제의 광고입니다.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "아젤리아 여드름 치료제 광고"
+  },
+  {
+    "title": "영화 'Saturday Night Fever' 음악 소개",
+    "start": 5430.0,
+    "end": 5730.0,
+    "summary": "영화 'Saturday Night Fever'의 사운드트랙과 비지스의 히트곡들을 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "How Deep Is Your Love",
+        "artist": "Bee Gees",
+        "description": "영화 'Saturday Night Fever'의 삽입곡으로, 사랑의 깊이를 노래합니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Endless Love' 음악 소개",
+    "start": 8910.0,
+    "end": 9030.0,
+    "summary": "영화 'Endless Love'의 주제곡을 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Endless Love",
+        "artist": "Diana Ross & Lionel Richie",
+        "description": "영화 'Endless Love'의 주제곡으로, 끝없는 사랑을 노래합니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Jailhouse Rock' 음악 소개",
+    "start": 9450.0,
+    "end": 9870.0,
+    "summary": "영화 'Jailhouse Rock'의 주제곡을 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Jailhouse Rock",
+        "artist": "Elvis Presley",
+        "description": "영화 'Jailhouse Rock'의 주제곡으로, 엘비스 프레슬리의 대표곡입니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Rocky III' 음악 소개",
+    "start": 10590.0,
+    "end": 10860.0,
+    "summary": "영화 'Rocky III'의 주제곡 'Eye of the Tiger'를 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Eye of the Tiger",
+        "artist": "Survivor",
+        "description": "영화 'Rocky III'의 주제곡으로, 도전과 승리를 노래합니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Flashdance' 음악 소개",
+    "start": 10890.0,
+    "end": 10950.0,
+    "summary": "영화 'Flashdance'의 주제곡 'What a Feeling'을 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "What a Feeling",
+        "artist": "Irene Cara",
+        "description": "영화 'Flashdance'의 주제곡으로, 꿈과 열정을 노래합니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'American Gigolo' 음악 소개",
+    "start": 11010.0,
+    "end": 11220.0,
+    "summary": "영화 'American Gigolo'의 주제곡 'Call Me'를 소개합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Call Me",
+        "artist": "Blondie",
+        "description": "영화 'American Gigolo'의 주제곡으로, 주인공의 매력을 표현합니다."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "title": "오프닝 멘트",
+    "start": 58.0,
+    "end": 98.46,
+    "summary": "FM 영화 음악의 정은음이 청취자들에게 인사를 전하며 방송을 시작한다.",
+    "tags": [
+      "오프닝",
+      "인사"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'La Boum' 음악 소개",
+    "start": 98.46,
+    "end": 103.82,
+    "summary": "영화 'La Boum'의 삽입곡 'Reality' 소개. 리처드 샌더스의 노래.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Reality",
+        "artist": "Richard Sanderson",
+        "description": "영화 'La Boum'의 삽입곡으로, 영화의 주요 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 평론가 정성일과의 대화",
+    "start": 422.06,
+    "end": 452.06,
+    "summary": "영화 평론가 정성일과 함께 최신 세계 영화들에 대해 이야기 나눔.",
+    "tags": [
+      "영화",
+      "평론"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 시간",
+    "start": 453.42,
+    "end": 544.54,
+    "summary": "여러 제품과 서비스에 대한 광고가 진행됨.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "미용 소품, 문구용품, 여드름 치료제 등 다양한 광고"
+  },
+  {
+    "title": "영화 'Wings of Desire' 소개",
+    "start": 980.18,
+    "end": 1883.42,
+    "summary": "영화 'Wings of Desire'에 대한 심층적인 소개와 감독 빈 벤더스의 작품 세계에 대해 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'A Brighter Summer Day' 음악 소개",
+    "start": 2101.1,
+    "end": 2371.1,
+    "summary": "영화 'A Brighter Summer Day'의 삽입곡 'Are You Lonesome Tonight?' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Are You Lonesome Tonight?",
+        "artist": "Elvis Presley",
+        "description": "영화 'A Brighter Summer Day'의 삽입곡으로, 영화의 주요 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Jacob's Ladder' 소개",
+    "start": 2847.1,
+    "end": 3106.5,
+    "summary": "영화 'Jacob's Ladder'에 대한 소개와 시나리오 작가의 영감에 대해 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 사연 소개",
+    "start": 3116.5,
+    "end": 3140.5,
+    "summary": "청취자들의 엽서를 소개하며 그들의 사연을 공유.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "서울 강남구 김원정 씨, 대구 박주영 씨, 전남 이정훈 씨의 사연 소개.",
+    "ad": "없음"
+  },
+  {
+    "title": "음악 'Adagio for Strings' 소개",
+    "start": 3140.5,
+    "end": 3586.98,
+    "summary": "영화 'Platoon'의 삽입곡 'Adagio for Strings' 소개.",
+    "tags": [
+      "음악",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Adagio for Strings",
+        "artist": "Samuel Barber",
+        "description": "영화 'Platoon'의 삽입곡으로, 감정적인 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "엔딩 멘트",
+    "start": 3586.98,
+    "end": 3639.7,
+    "summary": "방송을 마무리하며 청취자들에게 인사를 전함.",
+    "tags": [
+      "엔딩",
+      "인사"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

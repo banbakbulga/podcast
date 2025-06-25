@@ -1,0 +1,165 @@
+[
+  {
+    "title": "오프닝 멘트",
+    "start": 0.0,
+    "end": 104.92,
+    "summary": "정은임 아나운서가 FM 영화 음악 방송의 시작을 알리며 새로운 해의 시작을 맞이하는 멘트를 전함.",
+    "tags": [
+      "오프닝",
+      "방송 시작"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#오프닝"
+  },
+  {
+    "title": "청취자 사연 - 서울 성복구 권은희",
+    "start": 254.92,
+    "end": 284.92,
+    "summary": "서울 성복구 권은희 청취자가 새해 첫 방송에 대한 기대와 건강을 기원하는 메시지를 전함.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "서울 성복구 권은희님의 사연. 새해 첫 방송에 대한 기대와 건강을 기원하는 내용.",
+    "ad": "없음",
+    "tag": "#사연"
+  },
+  {
+    "title": "영화 'Exodus' 음악 소개",
+    "start": 344.92,
+    "end": 346.92,
+    "summary": "영화 'Exodus'의 테마 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Exodus Theme",
+        "artist": "Ernest Gold",
+        "description": "영화 'Exodus'의 테마 음악."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "광고 - 신세대 펜시 크리아트",
+    "start": 494.92,
+    "end": 550.44,
+    "summary": "신세대 펜시 크리아트 광고.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "신세대 펜시 크리아트 광고.",
+    "tag": "#광고"
+  },
+  {
+    "title": "영화 'Pelle the Conqueror' 소개",
+    "start": 980.44,
+    "end": 1110.44,
+    "summary": "영화 'Pelle the Conqueror'의 줄거리와 주제에 대해 설명.",
+    "tags": [
+      "영화",
+      "줄거리"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "영화 'The Color Purple' 음악 소개",
+    "start": 1110.44,
+    "end": 1139.44,
+    "summary": "영화 'The Color Purple'의 삽입곡 'Maybe God is Trying to Tell You Something' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Maybe God is Trying to Tell You Something",
+        "artist": "Quincy Jones",
+        "description": "영화 'The Color Purple'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "영화 'The Color Purple' 소개",
+    "start": 1411.44,
+    "end": 1550.44,
+    "summary": "영화 'The Color Purple'의 줄거리와 주제에 대해 설명.",
+    "tags": [
+      "영화",
+      "줄거리"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "영화 'Zorba the Greek' 음악 소개",
+    "start": 1901.44,
+    "end": 1931.44,
+    "summary": "영화 'Zorba the Greek'의 삽입곡 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Zorba's Dance",
+        "artist": "Mikis Theodorakis",
+        "description": "영화 'Zorba the Greek'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "청취자 사연 - 광주 묶고 각화동 이수연",
+    "start": 3183.54,
+    "end": 3193.54,
+    "summary": "광주 묶고 각화동 이수연 청취자가 동생과의 따뜻한 하루를 보낸 이야기를 전함.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "광주 묶고 각화동 이수연님의 사연. 동생과의 따뜻한 하루를 보낸 이야기.",
+    "ad": "없음",
+    "tag": "#사연"
+  },
+  {
+    "title": "영화 'Cooley High' 음악 소개",
+    "start": 3193.54,
+    "end": 3225.54,
+    "summary": "영화 'Cooley High'의 삽입곡 'It's So Hard to Say Goodbye to Yesterday' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "It's So Hard to Say Goodbye to Yesterday",
+        "artist": "G.C. Cameron",
+        "description": "영화 'Cooley High'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  }
+]

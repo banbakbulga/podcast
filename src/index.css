@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 전역 스크롤바 숨김 설정 */
+html,
+body {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+/* Chrome, Safari, Opera에서 스크롤바 숨김 */
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  font-family: 'San Francisco', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e0e0e0;
+  /* Softer light gray */
+  color: #1c1c1e;
+  /* Add padding for fixed navbar */
+  padding-top: 3.5rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* src/index.css 또는 src/globals.css */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none !important;
+  /* 크롬, 사파리, 엣지 */
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  /* IE, Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+/* CSS 부분 */
+.card-hover-effect {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+/* 카드 hover 시 변화 */
+.card-hover-effect:hover {
+  transform: scale(1.05);
+  /* 살짝 커지는 효과 */
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+  /* 그림자 확대 */
+  background-color: rgba(255, 255, 255, 0.1);
+  /* 배경색을 살짝 투명하게 */
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+section {
+  padding: 2rem;
+}
+
+.card {
+  background-color: #2c2c2e;
+  /* Darker color for cards */
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  section {
+    padding: 1rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}

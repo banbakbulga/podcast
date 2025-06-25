@@ -1,0 +1,178 @@
+[
+  {
+    "title": "오프닝 - 비 오는 날의 감성",
+    "start": 30.0,
+    "end": 111.0,
+    "summary": "비 오는 날의 감성을 이야기하며 방송을 시작합니다.",
+    "tags": [
+      "오프닝",
+      "비",
+      "감성"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 속 실수 소개",
+    "start": 351.96,
+    "end": 442.0,
+    "summary": "영화 속에서 발견되는 작은 실수들을 소개합니다.",
+    "tags": [
+      "영화",
+      "실수",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 시간",
+    "start": 442.0,
+    "end": 478.04,
+    "summary": "여러 가지 상품과 서비스에 대한 광고가 진행됩니다.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "여러 가지 상품과 서비스에 대한 광고"
+  },
+  {
+    "title": "영화 'Back to the Future' 음악 소개",
+    "start": 935.64,
+    "end": 948.84,
+    "summary": "영화 'Back to the Future'의 삽입곡 'The Power of Love' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "The Power of Love",
+        "artist": "Huey Lewis and the News",
+        "description": "영화 'Back to the Future'의 삽입곡으로, 영화의 주요 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'The Hard Way' 의상 실수",
+    "start": 995.28,
+    "end": 1048.96,
+    "summary": "영화 'The Hard Way'에서 마이클의 의상 실수를 소개합니다.",
+    "tags": [
+      "영화",
+      "실수"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "음악 'Big Girls Don't Cry' 소개",
+    "start": 1060.04,
+    "end": 1149.04,
+    "summary": "영화 '코끝에 걸린 사나이'에 삽입된 'Big Girls Don't Cry' 소개.",
+    "tags": [
+      "음악",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Big Girls Don't Cry",
+        "artist": "The Four Seasons",
+        "description": "영화 '코끝에 걸린 사나이'에 삽입된 곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'The Godfather' 실수",
+    "start": 1454.88,
+    "end": 1506.88,
+    "summary": "영화 'The Godfather'에서 발견된 실수를 소개합니다.",
+    "tags": [
+      "영화",
+      "실수"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Roman Holiday' 실수",
+    "start": 1687.64,
+    "end": 1775.92,
+    "summary": "영화 'Roman Holiday'에서 발견된 실수를 소개합니다.",
+    "tags": [
+      "영화",
+      "실수"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Field of Dreams' 소개",
+    "start": 2291.12,
+    "end": 2361.12,
+    "summary": "영화 'Field of Dreams'의 줄거리와 실수를 소개합니다.",
+    "tags": [
+      "영화",
+      "소개",
+      "실수"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "음악 'You Could Be Mine' 소개",
+    "start": 2393.12,
+    "end": 2415.12,
+    "summary": "영화 'Terminator 2'의 엔딩 크레딧에 사용된 'You Could Be Mine' 소개.",
+    "tags": [
+      "음악",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "You Could Be Mine",
+        "artist": "Guns N' Roses",
+        "description": "영화 'Terminator 2'의 엔딩 크레딧에 사용된 곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Die Hard 2' 실수",
+    "start": 2836.12,
+    "end": 3023.12,
+    "summary": "영화 'Die Hard 2'에서 발견된 실수를 소개합니다.",
+    "tags": [
+      "영화",
+      "실수"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "엔딩 - 참여 안내",
+    "start": 3304.12,
+    "end": 3362.12,
+    "summary": "청취자 참여를 독려하며 방송을 마무리합니다.",
+    "tags": [
+      "엔딩",
+      "참여"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "title": "오프닝 시와 인사",
+    "start": 0.0,
+    "end": 48.0,
+    "summary": "정은임이 구광본의 시 '길인'을 낭독하며 방송을 시작합니다.",
+    "tags": [
+      "오프닝",
+      "시"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "첫 곡 소개 - 영화 'The Rose'",
+    "start": 101.0,
+    "end": 150.0,
+    "summary": "루스란 미코프의 연주로 영화 'The Rose'의 테마곡을 소개합니다.",
+    "tags": [
+      "음악",
+      "영화"
+    ],
+    "music": [
+      {
+        "title": "The Rose Theme",
+        "artist": "Ruslan Micoff",
+        "description": "영화 'The Rose'의 테마곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "빌보드 선정 영화 속 노래 소개",
+    "start": 330.0,
+    "end": 419.0,
+    "summary": "빌보드가 선정한 영화 속 노래 순위를 소개하며, 12위부터 시작합니다.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 참여 안내",
+    "start": 419.0,
+    "end": 497.0,
+    "summary": "연말 특집으로 영화, 영화 음악, 스타 베스트 10을 선정하는 청취자 참여 안내.",
+    "tags": [
+      "청취자",
+      "참여"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 - 아젤리아",
+    "start": 562.0,
+    "end": 582.0,
+    "summary": "여드름 치료 제품 아젤리아 광고.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "여드름 치료 제품 아젤리아 광고."
+  },
+  {
+    "title": "광고 - 도서출판 도설",
+    "start": 594.0,
+    "end": 623.0,
+    "summary": "도서출판 도설의 책 광고.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "도서출판 도설의 책 광고."
+  },
+  {
+    "title": "광고 - 본주비 앨범",
+    "start": 645.0,
+    "end": 664.0,
+    "summary": "본주비의 앨범 'Keep the Faith' 광고.",
+    "tags": [
+      "광고",
+      "음악"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "본주비의 앨범 'Keep the Faith' 광고."
+  },
+  {
+    "title": "영화 'The Man Who Knew Too Much' 소개",
+    "start": 792.0,
+    "end": 994.0,
+    "summary": "영화 'The Man Who Knew Too Much'의 OST 'Que Sera, Sera' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Que Sera, Sera",
+        "artist": "Doris Day",
+        "description": "영화 'The Man Who Knew Too Much'의 주제가."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Butch Cassidy and the Sundance Kid' 소개",
+    "start": 1401.0,
+    "end": 1446.0,
+    "summary": "영화 'Butch Cassidy and the Sundance Kid'의 주요 장면과 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Raindrops Keep Fallin' on My Head",
+        "artist": "B.J. Thomas",
+        "description": "영화 'Butch Cassidy and the Sundance Kid'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Purple Rain' 소개",
+    "start": 1505.0,
+    "end": 1949.0,
+    "summary": "영화 'Purple Rain'과 프린스의 음악에 대한 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "When Doves Cry",
+        "artist": "Prince",
+        "description": "영화 'Purple Rain'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'April Love' 소개",
+    "start": 1949.0,
+    "end": 1966.86,
+    "summary": "영화 'April Love'와 팻 분의 노래 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "April Love",
+        "artist": "Pat Boone",
+        "description": "영화 'April Love'의 주제가."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Summer Lovers' 소개",
+    "start": 2400.92,
+    "end": 2690.92,
+    "summary": "영화 'Summer Lovers'와 시카고의 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Hard to Say I'm Sorry",
+        "artist": "Chicago",
+        "description": "영화 'Summer Lovers'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'A Star is Born' 소개",
+    "start": 2691.92,
+    "end": 3010.92,
+    "summary": "영화 'A Star is Born'과 바브라 스트라이샌드의 노래 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Evergreen",
+        "artist": "Barbra Streisand",
+        "description": "영화 'A Star is Born'의 주제가."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Xanadu' 소개",
+    "start": 3286.92,
+    "end": 3323.92,
+    "summary": "영화 'Xanadu'와 올리비아 뉴튼 존의 노래 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Magic",
+        "artist": "Olivia Newton-John",
+        "description": "영화 'Xanadu'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'To Sir, with Love' 소개",
+    "start": 3323.92,
+    "end": 3409.92,
+    "summary": "영화 'To Sir, with Love'와 루루의 노래 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "To Sir, with Love",
+        "artist": "Lulu",
+        "description": "영화 'To Sir, with Love'의 주제가."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

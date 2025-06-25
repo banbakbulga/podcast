@@ -1,0 +1,201 @@
+[
+  {
+    "title": "오프닝 멘트",
+    "start": 0.0,
+    "end": 30.0,
+    "summary": "정은임 아나운서의 인사말과 FM 영화 음악 프로그램 소개.",
+    "tags": [
+      "오프닝",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "음악에 대한 철학적 고찰",
+    "start": 30.0,
+    "end": 240.0,
+    "summary": "음악의 본질과 사람들 간의 소리의 교류에 대한 철학적 고찰.",
+    "tags": [
+      "음악",
+      "철학"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Top Gun' OST 소개",
+    "start": 240.0,
+    "end": 270.0,
+    "summary": "영화 'Top Gun'의 OST 'Take My Breath Away' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Take My Breath Away",
+        "artist": "Berlin",
+        "description": "영화 'Top Gun'의 삽입곡으로, 영화의 낭만적인 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "스테디캠 기법 소개",
+    "start": 570.0,
+    "end": 780.0,
+    "summary": "스테디캠 기법의 역사와 영화에서의 활용 사례 소개.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Rocky'의 스테디캠 장면",
+    "start": 300.0,
+    "end": 540.0,
+    "summary": "영화 'Rocky'에서 스테디캠으로 촬영된 필라델피아 박물관 계단 장면 설명.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'The Shining'의 스테디캠 장면",
+    "start": 540.0,
+    "end": 750.0,
+    "summary": "영화 'The Shining'에서 스테디캠으로 촬영된 긴박한 장면 설명.",
+    "tags": [
+      "영화",
+      "기술"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Bad Boys' OST 소개",
+    "start": 780.0,
+    "end": 810.0,
+    "summary": "영화 'Bad Boys'의 OST 'Give Me Your Love' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Give Me Your Love",
+        "artist": "Peabo Bryson",
+        "description": "영화 'Bad Boys'의 삽입곡으로, 주요 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 코너",
+    "start": 810.0,
+    "end": 1170.0,
+    "summary": "여러 광고들이 연속으로 소개됨.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "여러 제품 및 서비스 광고"
+  },
+  {
+    "title": "영화 'Kramer vs. Kramer' 소개",
+    "start": 2340.0,
+    "end": 2910.0,
+    "summary": "영화 'Kramer vs. Kramer'의 줄거리와 주요 장면 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Kramer vs. Kramer'의 요리 장면",
+    "start": 2910.0,
+    "end": 6030.0,
+    "summary": "영화 'Kramer vs. Kramer'에서 아버지가 아들에게 요리해주는 장면 설명.",
+    "tags": [
+      "영화",
+      "장면"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Kramer vs. Kramer'의 학교 장면",
+    "start": 6030.0,
+    "end": 10800.0,
+    "summary": "영화 'Kramer vs. Kramer'에서 아버지가 아들을 학교에 데려다주는 장면 설명.",
+    "tags": [
+      "영화",
+      "장면"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "스크린 잉글리시 코너",
+    "start": 1830.0,
+    "end": 2340.0,
+    "summary": "과경윤 씨와 함께하는 스크린 잉글리시 코너.",
+    "tags": [
+      "영화",
+      "영어"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 사연 소개",
+    "start": 11640.0,
+    "end": 11760.0,
+    "summary": "청취자들의 엽서와 사연 소개.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "서울시 영동포고 정영숙 학생 등 청취자들의 사연.",
+    "ad": "없음"
+  },
+  {
+    "title": "엔딩 멘트",
+    "start": 11760.0,
+    "end": 11850.0,
+    "summary": "마지막 곡 소개와 함께 인사말.",
+    "tags": [
+      "엔딩",
+      "인사"
+    ],
+    "music": [
+      {
+        "title": "Don't Cry For Me Argentina",
+        "artist": "Madonna",
+        "description": "뮤지컬 'Evita'의 유명한 곡으로, 감동적인 멜로디가 특징."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

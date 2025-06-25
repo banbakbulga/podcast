@@ -1,0 +1,239 @@
+[
+  {
+    "title": "오프닝 및 새해 인사",
+    "start": 61.0,
+    "end": 90.0,
+    "summary": "FM 영화음악의 정훈임이 새해 첫날 인사를 전하며 방송을 시작합니다.",
+    "tags": [
+      "오프닝",
+      "새해 인사"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 '2001: A Space Odyssey' 음악 소개",
+    "start": 217.0,
+    "end": 227.0,
+    "summary": "영화 '2001: A Space Odyssey'의 삽입곡 'Also sprach Zarathustra' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Also sprach Zarathustra",
+        "artist": "Richard Strauss",
+        "description": "영화 '2001: A Space Odyssey'의 오프닝 음악으로 유명한 곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 사연 - 이상류 씨",
+    "start": 229.0,
+    "end": 243.0,
+    "summary": "서울 도봉구 오이동의 이상류 씨가 여자친구의 생일을 축하하는 사연을 보냄.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "이상류 씨가 여자친구의 20번째 생일을 축하하는 사연.",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Annie' 음악 소개",
+    "start": 253.0,
+    "end": 260.0,
+    "summary": "영화 'Annie'의 삽입곡 'Tomorrow'를 패트리시아 페인의 목소리로 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Tomorrow",
+        "artist": "Patricia Payne",
+        "description": "영화 'Annie'의 대표적인 곡으로 희망적인 메시지를 담고 있음."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 - 크리아트",
+    "start": 484.96,
+    "end": 506.96,
+    "summary": "신세대편식 크리아트 광고.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "신세대편식 크리아트 광고."
+  },
+  {
+    "title": "광고 - 아줄리아",
+    "start": 508.96,
+    "end": 525.96,
+    "summary": "여드름 치료제 아줄리아 광고.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "여드름 치료제 아줄리아 광고."
+  },
+  {
+    "title": "영화 'Fried Green Tomatoes' 소개",
+    "start": 911.46,
+    "end": 1055.88,
+    "summary": "영화 'Fried Green Tomatoes'의 줄거리와 주요 배우 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Empire of the Sun' 소개",
+    "start": 1059.08,
+    "end": 1307.08,
+    "summary": "스티븐 스필버그 감독의 영화 'Empire of the Sun'의 줄거리와 비평.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Peter Pan' 소개",
+    "start": 1313.08,
+    "end": 1361.08,
+    "summary": "월트 디즈니의 애니메이션 영화 'Peter Pan'의 역사와 재개봉 소식.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Sneakers' 소개",
+    "start": 1489.08,
+    "end": 1623.08,
+    "summary": "영화 'Sneakers'의 줄거리와 주요 배우 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'The Power of One' 소개",
+    "start": 1872.1,
+    "end": 1954.22,
+    "summary": "영화 'The Power of One'의 줄거리와 배경 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'White Sands' 소개",
+    "start": 2099.38,
+    "end": 2178.54,
+    "summary": "영화 'White Sands'의 줄거리와 주요 배우 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'HouseSitter' 소개",
+    "start": 2440.1,
+    "end": 2468.9,
+    "summary": "영화 'HouseSitter'의 줄거리와 주요 배우 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'What About Bob?' 소개",
+    "start": 2472.58,
+    "end": 2505.3,
+    "summary": "영화 'What About Bob?'의 줄거리와 주요 배우 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Reversal of Fortune' 소개",
+    "start": 2567.7,
+    "end": 2580.54,
+    "summary": "영화 'Reversal of Fortune'의 줄거리와 주요 배우 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 사연 - 박은정 씨",
+    "start": 3230.34,
+    "end": 3268.34,
+    "summary": "송파구 송파동의 박은정 씨가 FM 영화음악을 듣지 못하는 아쉬움을 전함.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "박은정 씨가 FM 영화음악을 듣지 못하는 아쉬움을 전하는 사연.",
+    "ad": "없음"
+  },
+  {
+    "title": "엔딩 및 마지막 곡 소개",
+    "start": 3283.34,
+    "end": 3295.34,
+    "summary": "방송의 마지막 곡으로 영화 '이혼하지 않는 여자'의 OST를 소개하며 방송을 마무리.",
+    "tags": [
+      "엔딩",
+      "음악"
+    ],
+    "music": [
+      {
+        "title": "내 힘의 사랑",
+        "artist": "따로 또 같이",
+        "description": "영화 '이혼하지 않는 여자'의 OST."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

@@ -1,0 +1,126 @@
+```json
+[
+  {
+    "title": "오프닝 멘트",
+    "start": 0.0,
+    "end": 10.0,
+    "summary": "DJ 정은임이 3월의 시작과 함께 FM 영화 음악 방송을 소개하며 청취자들에게 인사를 전함.",
+    "tags": ["오프닝", "소개"],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#오프닝"
+  },
+  {
+    "title": "첫 곡 소개",
+    "start": 10.0,
+    "end": 40.0,
+    "summary": "영화 'South Pacific'의 삽입곡 'Happy Talk' 소개.",
+    "tags": ["영화", "OST"],
+    "music": [
+      {
+        "title": "Happy Talk",
+        "artist": "South Pacific Cast",
+        "description": "영화 'South Pacific'의 삽입곡으로, 긍정적이고 행복한 분위기를 전함."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#음악"
+  },
+  {
+    "title": "여드름 치료 광고",
+    "start": 40.0,
+    "end": 50.0,
+    "summary": "여드름 치료 제품 아젤리아 광고.",
+    "tags": ["광고"],
+    "music": [],
+    "story": "없음",
+    "ad": "여드름 치료 제품 아젤리아 광고.",
+    "tag": "#광고"
+  },
+  {
+    "title": "책 '사랑을 위해 죽다' 광고",
+    "start": 50.0,
+    "end": 60.0,
+    "summary": "책 '사랑을 위해 죽다'의 광고.",
+    "tags": ["광고", "책"],
+    "music": [],
+    "story": "없음",
+    "ad": "책 '사랑을 위해 죽다' 광고.",
+    "tag": "#광고"
+  },
+  {
+    "title": "라면 광고",
+    "start": 60.0,
+    "end": 70.0,
+    "summary": "새로운 라면 '라면 맥'의 광고.",
+    "tags": ["광고", "음식"],
+    "music": [],
+    "story": "없음",
+    "ad": "새로운 라면 '라면 맥' 광고.",
+    "tag": "#광고"
+  },
+  {
+    "title": "비타민 광고",
+    "start": 70.0,
+    "end": 80.0,
+    "summary": "비타민 C 제품 레모나 광고.",
+    "tags": ["광고", "건강"],
+    "music": [],
+    "story": "없음",
+    "ad": "비타민 C 제품 레모나 광고.",
+    "tag": "#광고"
+  },
+  {
+    "title": "책 '유리구두' 광고",
+    "start": 80.0,
+    "end": 90.0,
+    "summary": "책 '유리구두'의 광고.",
+    "tags": ["광고", "책"],
+    "music": [],
+    "story": "없음",
+    "ad": "책 '유리구두' 광고.",
+    "tag": "#광고"
+  },
+  {
+    "title": "청취자 사연 - 서울 송파구",
+    "start": 90.0,
+    "end": 120.0,
+    "summary": "서울 송파구의 한 해완씨와 정은경씨의 사연 소개.",
+    "tags": ["사연", "청취자"],
+    "music": [],
+    "story": "서울 송파구의 한 해완씨와 정은경씨가 영화 'Frankie and Johnny'의 신청곡을 요청.",
+    "ad": "없음",
+    "tag": "#사연"
+  },
+  {
+    "title": "영화 'Frankie and Johnny' 음악 소개",
+    "start": 120.0,
+    "end": 150.0,
+    "summary": "영화 'Frankie and Johnny'의 삽입곡 'My Funny Valentine' 소개.",
+    "tags": ["영화", "OST"],
+    "music": [
+      {
+        "title": "My Funny Valentine",
+        "artist": "Michelle Pfeiffer",
+        "description": "영화 'Frankie and Johnny'의 삽입곡으로, Michelle Pfeiffer가 직접 부른 곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#음악"
+  },
+  {
+    "title": "청취자 질문 - Michelle Pfeiffer",
+    "start": 150.0,
+    "end": 160.0,
+    "summary": "청취자가 Michelle Pfeiffer가 직접 노래를 부른 것인지 질문.",
+    "tags": ["사연", "질문"],
+    "music": [],
+    "story": "서울 수요동의 장문경씨가 Michelle Pfeiffer가 영화 속에서 직접 노래를 부른 것인지 질문.",
+    "ad": "없음",
+    "tag": "#사연"
+  }
+]
+```

@@ -1,0 +1,254 @@
+[
+  {
+    "title": "오프닝 - 장우님의 인사",
+    "start": 0.0,
+    "end": 30.0,
+    "summary": "FM 영화음악의 장우님이 인사를 전하며 별명에 대한 이야기를 나눔.",
+    "tags": [
+      "오프닝",
+      "인사"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 참여 안내",
+    "start": 30.0,
+    "end": 90.0,
+    "summary": "청취자들에게 궁금한 인물 소개 요청과 참여 방법 안내.",
+    "tags": [
+      "청취자",
+      "참여"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "알란 파커 감독 소개",
+    "start": 90.0,
+    "end": 240.0,
+    "summary": "알란 파커 감독과 그의 영화에 대한 소개. 국내 개봉작과 비디오 출시작 언급.",
+    "tags": [
+      "영화",
+      "감독"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "광고 - 미용 소품",
+    "start": 270.0,
+    "end": 450.0,
+    "summary": "미용 소품 브랜드 '3크러'에 대한 광고.",
+    "tags": [
+      "광고",
+      "미용"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "미용 소품 전문 상표 3크러 광고"
+  },
+  {
+    "title": "광고 - 도서출판 미래향",
+    "start": 480.0,
+    "end": 630.0,
+    "summary": "도서출판 미래향의 책 광고.",
+    "tags": [
+      "광고",
+      "도서"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "도서출판 미래향 광고"
+  },
+  {
+    "title": "광고 - 펜시용품",
+    "start": 660.0,
+    "end": 750.0,
+    "summary": "펜시용품 브랜드 '다른 손'에 대한 광고.",
+    "tags": [
+      "광고",
+      "펜시용품"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "펜시용품 브랜드 다른 손 광고"
+  },
+  {
+    "title": "광고 - 여드름 치료제",
+    "start": 780.0,
+    "end": 990.0,
+    "summary": "여드름 치료제 '아젤리야'에 대한 광고.",
+    "tags": [
+      "광고",
+      "치료제"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "여드름 치료제 아젤리야 광고"
+  },
+  {
+    "title": "광고 - 도서출판 고려원",
+    "start": 1020.0,
+    "end": 1170.0,
+    "summary": "도서출판 고려원의 책 광고.",
+    "tags": [
+      "광고",
+      "도서"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "도서출판 고려원 광고"
+  },
+  {
+    "title": "광고 - 라면 맥",
+    "start": 2400.0,
+    "end": 2610.0,
+    "summary": "라면 브랜드 '라면 맥'에 대한 광고.",
+    "tags": [
+      "광고",
+      "라면"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "라면 브랜드 라면 맥 광고"
+  },
+  {
+    "title": "영화 'Fame' 음악 소개",
+    "start": 3240.0,
+    "end": 3420.0,
+    "summary": "영화 'Fame'의 삽입곡 'Never Alone' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Never Alone",
+        "artist": "없음",
+        "description": "영화 'Fame'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "알란 파커 감독의 영화 인생",
+    "start": 4170.0,
+    "end": 4500.0,
+    "summary": "알란 파커 감독의 영화 인생과 그의 작품들에 대한 소개.",
+    "tags": [
+      "영화",
+      "감독"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Midnight Express' 소개",
+    "start": 6060.0,
+    "end": 6330.0,
+    "summary": "영화 'Midnight Express'의 줄거리와 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'The Wall' 소개",
+    "start": 7440.0,
+    "end": 7890.0,
+    "summary": "영화 'The Wall'의 줄거리와 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [
+      {
+        "title": "Goodbye Blue Sky",
+        "artist": "Pink Floyd",
+        "description": "영화 'The Wall'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Birdy' 소개",
+    "start": 8640.0,
+    "end": 9030.0,
+    "summary": "영화 'Birdy'의 줄거리와 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Come See the Paradise' 소개",
+    "start": 9090.0,
+    "end": 9180.0,
+    "summary": "영화 'Come See the Paradise'의 줄거리와 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'The Commitments' 소개",
+    "start": 9270.0,
+    "end": 9390.0,
+    "summary": "영화 'The Commitments'의 줄거리와 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [
+      {
+        "title": "I Can't Stand the Rain",
+        "artist": "없음",
+        "description": "영화 'The Commitments'의 삽입곡."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "알란 파커 감독의 영화 스타일",
+    "start": 9390.0,
+    "end": 9600.0,
+    "summary": "알란 파커 감독의 영화 스타일과 그의 작품에 대한 분석.",
+    "tags": [
+      "영화",
+      "감독"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "엔딩 - 내일의 방송 예고",
+    "start": 9720.0,
+    "end": 9870.0,
+    "summary": "내일 방송 예고와 함께 FM 영화 음악의 마무리 인사.",
+    "tags": [
+      "엔딩",
+      "예고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "title": "오프닝 - FM 영화음악 소개",
+    "start": 0.0,
+    "end": 67.14,
+    "summary": "정은임 DJ가 FM 영화음악 방송을 소개하며 청취자들에게 인사를 전함.",
+    "tags": [
+      "오프닝",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#오프닝"
+  },
+  {
+    "title": "음악 소개 - 'Working Girl'",
+    "start": 67.14,
+    "end": 171.24,
+    "summary": "영화 'Working Girl'의 삽입곡 'Let the River Run' 소개.",
+    "tags": [
+      "음악",
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Let the River Run",
+        "artist": "Carly Simon",
+        "description": "영화 'Working Girl'의 주제곡으로, 영화의 상징적인 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#음악"
+  },
+  {
+    "title": "광고 - 다양한 제품 광고",
+    "start": 320.14,
+    "end": 594.14,
+    "summary": "다양한 제품 광고가 연속적으로 방송됨.",
+    "tags": [
+      "광고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "100% 섬유질 제품, 소품 전문 상표 3크러, 아젤리아 여드름 치료제 등",
+    "tag": "#광고"
+  },
+  {
+    "title": "영화 'Tous les matins du monde' 소개",
+    "start": 997.14,
+    "end": 1232.14,
+    "summary": "영화 'Tous les matins du monde'의 줄거리와 음악의 중요성에 대해 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "음악 소개 - '1492: Conquest of Paradise'",
+    "start": 1244.14,
+    "end": 1252.14,
+    "summary": "영화 '1492: Conquest of Paradise'의 삽입곡 'Conquest of Paradise' 소개.",
+    "tags": [
+      "음악",
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Conquest of Paradise",
+        "artist": "Vangelis",
+        "description": "영화 '1492: Conquest of Paradise'의 주제곡으로, 영화의 웅장한 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#음악"
+  },
+  {
+    "title": "영화 '1492: Conquest of Paradise' 소개",
+    "start": 1570.42,
+    "end": 1667.1,
+    "summary": "영화 '1492: Conquest of Paradise'의 줄거리와 콜롬버스의 다양한 면모에 대해 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "영화 'Time of the Gypsies' 소개",
+    "start": 1891.1,
+    "end": 2632.82,
+    "summary": "영화 'Time of the Gypsies'의 줄거리와 감독 에밀 쿠스트리차의 영화 제작 배경 설명.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#영화"
+  },
+  {
+    "title": "음악 소개 - 'Ederlezi'",
+    "start": 2805.74,
+    "end": 3003.14,
+    "summary": "영화 'Time of the Gypsies'의 삽입곡 'Ederlezi' 소개.",
+    "tags": [
+      "음악",
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Ederlezi",
+        "artist": "Goran Bregović",
+        "description": "영화 'Time of the Gypsies'의 주제곡으로, 영화의 감동적인 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#음악"
+  },
+  {
+    "title": "엔딩 - 방송 마무리",
+    "start": 3037.14,
+    "end": 3065.14,
+    "summary": "정성혜 씨가 영화 'Time of the Gypsies'에 대한 감동적인 이야기를 마무리하며 방송 종료.",
+    "tags": [
+      "엔딩",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음",
+    "tag": "#엔딩"
+  }
+]

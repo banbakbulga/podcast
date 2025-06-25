@@ -1,0 +1,220 @@
+[
+  {
+    "title": "오프닝 및 프로그램 소개",
+    "start": 59.38,
+    "end": 111.38,
+    "summary": "FM 영화음악의 정은임이 프로그램을 소개하며 청취자들의 사랑에 감사함을 전함.",
+    "tags": [
+      "오프닝",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "청취자 사연 - 광주에서",
+    "start": 119.38,
+    "end": 138.38,
+    "summary": "광주 동구의 박성호 청취자가 FM 시사회 재개에 대한 기쁨을 전함.",
+    "tags": [
+      "사연",
+      "청취자"
+    ],
+    "music": [],
+    "story": "광주 동구 박성호님의 사연. FM 시사회가 다시 시작되어 기쁘다는 내용.",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'When Harry Met Sally' 음악 소개",
+    "start": 128.38,
+    "end": 188.38,
+    "summary": "영화 'When Harry Met Sally'의 삽입곡 'It Had to Be You' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "It Had to Be You",
+        "artist": "Harry Connick Jr.",
+        "description": "영화 'When Harry Met Sally'의 삽입곡으로, 낙엽이 떠오르는 장면에서 사용됨."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Do the Right Thing' 음악 소개",
+    "start": 372.38,
+    "end": 604.8,
+    "summary": "영화 'Do the Right Thing'의 삽입곡 'Can't Stand It' 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Can't Stand It",
+        "artist": "Still Personnel",
+        "description": "영화 'Do the Right Thing'의 삽입곡으로, 영화의 긴장감을 고조시킴."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Do the Right Thing' 소개",
+    "start": 692.8,
+    "end": 793.8,
+    "summary": "영화 'Do the Right Thing'의 줄거리와 스파이크 리 감독의 연출 기법 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Mo' Better Blues' 음악 소개",
+    "start": 803.8,
+    "end": 831.8,
+    "summary": "영화 'Mo' Better Blues'의 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Mo' Better Blues",
+        "artist": "없음",
+        "description": "영화 'Mo' Better Blues'의 삽입곡으로, 재즈의 매력을 전함."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Stanley & Iris' 소개",
+    "start": 1076.8,
+    "end": 1200.8,
+    "summary": "영화 'Stanley & Iris'의 줄거리와 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Stanley & Iris' 음악 소개",
+    "start": 1200.8,
+    "end": 1210.8,
+    "summary": "영화 'Stanley & Iris'의 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Stanley & Iris",
+        "artist": "없음",
+        "description": "영화 'Stanley & Iris'의 삽입곡으로, 영화의 감동을 더함."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Miller's Crossing' 소개",
+    "start": 2024.94,
+    "end": 2108.58,
+    "summary": "영화 'Miller's Crossing'의 줄거리와 상징적인 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Cry Freedom' 소개",
+    "start": 2393.58,
+    "end": 2489.58,
+    "summary": "영화 'Cry Freedom'의 줄거리와 스티븐 비코의 삶 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Cry Freedom' 음악 소개",
+    "start": 2482.58,
+    "end": 2489.58,
+    "summary": "영화 'Cry Freedom'의 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "Cry Freedom",
+        "artist": "없음",
+        "description": "영화 'Cry Freedom'의 삽입곡으로, 영화의 메시지를 강화함."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Apocalypse Now' 소개",
+    "start": 2817.58,
+    "end": 2883.58,
+    "summary": "영화 'Apocalypse Now'의 제작 과정과 주요 장면 소개.",
+    "tags": [
+      "영화",
+      "소개"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "영화 'Apocalypse Now' 음악 소개",
+    "start": 2877.58,
+    "end": 2883.58,
+    "summary": "영화 'Apocalypse Now'의 음악 소개.",
+    "tags": [
+      "영화",
+      "OST"
+    ],
+    "music": [
+      {
+        "title": "The End",
+        "artist": "The Doors",
+        "description": "영화 'Apocalypse Now'의 삽입곡으로, 영화의 긴장감을 극대화함."
+      }
+    ],
+    "story": "없음",
+    "ad": "없음"
+  },
+  {
+    "title": "엔딩 및 다음 방송 예고",
+    "start": 3138.3,
+    "end": 3217.38,
+    "summary": "FM 영화음악의 정은임이 방송을 마무리하며 다음 방송을 예고함.",
+    "tags": [
+      "엔딩",
+      "예고"
+    ],
+    "music": [],
+    "story": "없음",
+    "ad": "없음"
+  }
+]
