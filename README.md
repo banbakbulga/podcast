@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# 🎙️ FM Radio Script Curation Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Whisper로 변환된 라디오 방송 스크립트를 GPT를 활용해 주제별로 자동 큐레이션하는 프로젝트입니다.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📁 프로젝트 개요
 
-### `npm start`
+이 프로젝트는 1992년 FM 영화음악 등 라디오 음원 데이터를 기반으로 다음 과정을 자동화합니다:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. 🎧 **Whisper로 음성 → 텍스트(JSON) 변환**
+2. 🤖 **GPT-4o-mini로 의미 단위(조각) 자동 분할**
+3. 🖥️ **React 프론트엔드에서 시각적으로 조각 콘텐츠 제공**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 사용 기술
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| 영역         | 기술                                   |
+|--------------|----------------------------------------|
+| 음성 인식     | [OpenAI Whisper](https://github.com/openai/whisper) |
+| LLM 처리     | OpenAI `gpt-4o-mini` API               |
+| 프론트엔드   | React                                   |
+| 백엔드 API   | FastAPI (Python)                        |
+| 데이터 저장   | JSON 기반 정적 파일 (`public/data/`)      |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📂 디렉토리 구조
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+public/
+  ├── audio/                  # mp3 음원 파일
+  ├── data/                   # Whisper 결과 및 GPT 조각화 결과
+  │    ├── 1992XXXX_cleaned.json     # Whisper 출력
+  │    ├── 1992XXXX.json             # GPT 조각화 결과
+src/
+  ├── backend/                # FastAPI 백엔드 코드
+  ├── components/             # React 컴포넌트
